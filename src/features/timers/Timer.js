@@ -5,5 +5,3 @@ export default function createTimer(name) {
     isRunning: false
   }
 }
-
-const myTimer = createTimer('Workout');
